@@ -1,51 +1,34 @@
 ---
 layout: post
-title: "The Era of Freelance Is Coming"
-date: 2018-11-23
+title: "Current state of Zerocracy: an honest review"
+date: 2019-09-04
 description: |
-  Software outsourcing has been a trend in the software industry
-  for years, but the new era is coming; will giants be able
-  to adapt?
+  After my first 90 days in Zerocracy, I provide my opinion
+  on its pros and cons.
 author:
-  name: Yegor Bugayenko
-  twitter: yegor256
+  name: Stefano Cristalli
+  github: scristalli
 ---
 
-The outsourcing in combination with low-cost offshoring was a major trend in the
-software industry twenty years ago. Since then small groups of enthusiasts grew
-into large companies with thousands of employees and dozens of offices all over
-the world, like Wipro, EPAM, Luxoft, and others. Despite the
-obvious success, the future of software development may need a different
-business model, since clients' requirements are rapidly changing. The market is
-quickly shifting towards more flexible work models, which compete with full-time
-office employment and time&material contracts.
+90 days ago, I reported [a bug]() in Zerocracy, earning my first [+15]() points of reputation.
+Today, the reward has disappeared as dictated by the Policy. I feel it's time to stop for a moment
+and review my experience in Zerocracy.
 
 <!--more-->
 
-The umbrella term for this new
-trend is "freelance." The [recent IPO of Upwork](https://www.cnbc.com/2018/10/03/upwork-ceo-on-ipo-day-we-do-not-incentivize-for-less-pay-for-freelancers.html),
-with a valuation of over $1.5B, demonstrates that the demand is high and will only grow. There is a lot of space
-for it, since Upwork only works with just 400,000 freelancers, while the entire
-population of programmers is [over 20 million](https://evansdata.com/reports/viewRelease.php?reportID=9).
+I'll start by saying that I love the idea behind Zerocracy. If properly realized, I think that it
+can really be a game changer in software development, both for clients (by [cutting costs]()), and for developers (for making [paying by result]() a reality).
 
-In order to survive, smart software houses must realize that the future, in its 10-15 years horizon, will
-make it mandatory for software projects to work with freelancers or build teams
-entirely of people working remotely and part-time. Gallup recently
-[found out](https://www.cnbc.com/2018/05/30/70-percent-of-people-globally-work-remotely-at-least-once-a-week-iwg-study.html)
-that the number of American employees working remotely rose to 43 percent in
-2016 from 39 percent in 2012.
+I've seen the ideas in practice by joining Zerocracy as a `DEV`. In these 90 days I've reached a peak reputation of a little over +400, divided as follows:
 
-This growing army of telecommuters will need
-completely new methods of management, which have to be developed, tested, and
-yet prove their effectiveness. Traditional co-located teams, which are the core
-element of any large outsourcing company, may find it difficult or even
-impossible to invent them. This may become a major problem for large outsources,
-unless they adapt to the rapidly changing market landscape.
+* I reported 8 bugs, each one worth +15 points
+* I completed 9 jobs as a developer, each worth +35 points
+* One code review (+15)
+* One resume review (+32)
+* 6 task refusals (-15 each)
 
-The founding team of [Zerocracy](https://www.zerocracy.com) has spent over eight years to understand
-this new emerging world of freelance, investigate its [laws and rules](https://www.yegor256.com/2016/08/05/distributed-teams-are-higher-quality.html),
-and invent [instruments](https://www.yegor256.com/2018/03/21/zerocracy-announcement.html)
-to make distributed projects even more successful than
-co-located ones. For a smart software house Zerocracy is an ideal transition
-to the new territory, without losing time of their projects and the quality
-of their products.
+All in all, I think I had some time to explore the system, and I reached an average score. In the future, I hope to reach +1024 and even start directing some projects in Zerocracy.
+Now that I know the rules of the game (rules which I like), it will be easier to adapt to Zerocracy's workflow and get more things done. On the other hand, I feel that some of the reasons I couldn't get more points from the start are beyond my control, and that Zerocracy has some issues that need to be dealt with.
+I will now list these positive and negative aspects, hoping to provide insight for beginners and outsiders with the first category, and to stimulate the growth of Zerocracy by raising attention to possible points of improvement with the second.
+
+
