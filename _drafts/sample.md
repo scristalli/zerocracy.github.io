@@ -53,3 +53,19 @@ As time passed, I realized I was wrong on all the points. Now I know that:
 * Sometimes it makes no sense to occupy a slot in the agenda with a task for week, gaining +30 point in the end. Since the slots are limited, it is clear that quickly refusing a stale task can free up the space for many other
 
 Besides individual considerations, I came to realize that task refusal is a big plus for overall project quality: since no one is ever forced to work on something they don't like/are not good at/did not understand, quality can only improve.
+
+# Cons
+
+## Some internal projects need improvement
+Too bad, some internal projects are currently in a state that is not beneficial to Zerocracy's development.
+The farm repository has, at the time of writing, over 200 open issues in scope.
+The cactoos library had its last merge a month ago.
+These numbers are not healthy, and highlight organizational issues in some projects. I think that Zerocracy should take care of its most important assets, and make sure that related work is going smoothly, either by targeted invested of resources (for the farm, hire and pay developers to fix the huge amount of open bugs), or by changes in the Policy (for cactoos and other project, enforce that `ARC` performs a certain number of merges, otherwise rotate the role to a more motivated person).
+
+## Rules are easy to discuss, but hard to change
+The problem just mentioned and many others are discussed in the Telegram chat on a daily basis, and there are also many open tickets in the farm for changes and improvements in the Policy.
+After having seen many discussions, and having participated in some, I have the feeling that Zerocracy lacks a clear workflow on how to discuss internal issues.
+In my opinion, they should be treated as high priority bugs, and either rejected as irrelevant, or discussed thoroughly and fixed by a change in the Policy.
+
+
+
