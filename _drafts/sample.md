@@ -43,4 +43,13 @@ The structure of the workflow in Zerocracy guarantees that:
 
 These properties, and many more, are a foundation for top-quality software that progresses in a rational way, avoiding spaghetti and shortcuts at all costs.
 
+## Yes, refusing tasks is a good thing
+I must confess, when I started working in Zerocracy I had both the [hacker]() and the [hero]() mentalities. I wanted to complete tasks at all costs: if something was not clear, it was my fault, I should read the docs better, maybe I missed something, I should debug the code until I figure what it is doing. I saw the opportunity of refusing tasks as a last resort, and a terrible stain on a developer's record ("How could he not be able to complete this?").
+Additionally, I much preferred the bonus +30 points for completing a job, rather than the -15 for refusing it, even if this meant holding it for weeks because of impediments.
 
+As time passed, I realized I was wrong on all the points. Now I know that:
+* If something is not clear, there is no point in wasting time and hack my way to understanding. The documentation can always be improved, so I can open a ticket
+* Even if I can't complete a task and refuse it for that reason, nobody cares. Reputation is agnostic of incompetence in a particular area, and I can make plenty of points where I am good
+* Sometimes it makes no sense to occupy a slot in the agenda with a task for week, gaining +30 point in the end. Since the slots are limited, it is clear that quickly refusing a stale task can free up the space for many other
+
+Besides individual considerations, I came to realize that task refusal is a big plus for overall project quality: since no one is ever forced to work on something they don't like/are not good at/did not understand, quality can only improve.
