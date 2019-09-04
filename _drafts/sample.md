@@ -31,4 +31,16 @@ All in all, I think I had some time to explore the system, and I reached an aver
 Now that I know the rules of the game (rules which I like), it will be easier to adapt to Zerocracy's workflow and get more things done. On the other hand, I feel that some of the reasons I couldn't get more points from the start are beyond my control, and that Zerocracy has some issues that need to be dealt with.
 I will now list these positive and negative aspects, hoping to provide insight for beginners and outsiders with the first category, and to stimulate the growth of Zerocracy by raising attention to possible points of improvement with the second.
 
+# Pros
+
+## Quality is indeed exceptional
+The structure of the workflow in Zerocracy guarantees that:
+* each commit is linked to a specific issue: no hidden documentation, no gurus holding unwritten knowledge. Everything can be found in the ticket, where there is always the possibility to ask for more information
+* multiple quality reviews are done on each line of code: `REV` and `ARC` both confirm that a given commit is good
+* code formatting and organization is always close to being perfect: all build must pass strict automated quality checks, such as code indentation and class coupling
+* tests are written along with code
+* principles of [EO]() are applied
+
+These properties, and many more, are a foundation for top-quality software that progresses in a rational way, avoiding spaghetti and shortcuts at all costs.
+
 
